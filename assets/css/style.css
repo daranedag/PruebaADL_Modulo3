@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    top: 0;
+    background-color: #212529;
+}
+
+h1{
+    color: white;
+}
+
+.formulario{
+    background-color: grey;
+    border-radius: 2%;
+}
